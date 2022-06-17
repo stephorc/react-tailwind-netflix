@@ -1,6 +1,8 @@
 # Netflix Clone using ReactJs
 
-<!-- ![screenshot]() -->
+<!-- ![Mobile](https://github.com/stephorc/react-tailwind-netflix/tree/main/solution/Netflix-Mobile.png) -->
+<!-- ![Tablet](https://github.com/stephorc/react-tailwind-netflix/tree/main/solution/Netflix-Tablet.png) -->
+<!-- ![Desktop](https://github.com/stephorc/react-tailwind-netflix/tree/main/solution/Netflix-Desktop.png) -->
 <!-- **Project Link** - ***https://*** -->
 
 ## Tech Used
@@ -18,11 +20,15 @@
 
 - Sign up / Login
 - CRUD (saving and deleting favorites, creating account, updating wishlist and movie list/home image on load/heart)
+- Movie Database API
 - Clean UI
 
 ## Steps to run in your machine
 
-#### Run the following commands
+Make an account and grab your API keys here:
+- ***https://www.themoviedb.org/***
+
+#### When you're ready, run the following commands
 ```
 npm i
 npm run 
