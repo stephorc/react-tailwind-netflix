@@ -1,4 +1,4 @@
-# Netflix Clone using ReactJs
+# Netflix Clone using ReactJs and TailwindCSS
 
 <!-- ![Mobile](https://github.com/stephorc/react-tailwind-netflix/tree/main/solution/Netflix-Mobile.png) -->
 <!-- ![Tablet](https://github.com/stephorc/react-tailwind-netflix/tree/main/solution/Netflix-Tablet.png) -->
@@ -23,12 +23,13 @@
 - Movie Database API
 - Clean UI
 
-## Steps to run in your machine
+## Steps to run Netflix Clone on your machine
 
 Make an account and grab your API keys here:
 - ***https://www.themoviedb.org/***
+- ***https://firebase.google.com/***
 
-#### When you're ready, run the following commands
+#### Run the following commands to start
 ```
 npm i
 npm run 
