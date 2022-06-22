@@ -1,4 +1,5 @@
 import React from 'react';
+import SavedMovies from '../components/SavedMovies';
 import NetflixBg from '../netflix-signup-bg.png';
 
 const Account = () => {
@@ -15,6 +16,7 @@ const Account = () => {
           <h1 className='text-3xl md:text-5xl font-bold'>My Shows</h1>
         </div>
       </div>
+      <SavedMovies />
     </div>
   );
 };
