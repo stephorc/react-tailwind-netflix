@@ -1,8 +1,8 @@
 # Netflix Clone using ReactJs and TailwindCSS
 
-![Fully built and deployed web app](https://github.com/stephorc/react-tailwind-netflix/blob/main/src/react-tailwind-netflix.png)
+![Fully built and deployed web app, preview](https://github.com/stephorc/react-tailwind-netflix/blob/main/src/react-tailwind-netflix-preview.png)
 
-**Project Link** - ***[https://](https://react-tailwind-netflix.web.app/)***
+**Project Link** - ***https://react-tailwind-netflix.web.app/***
 
 ## Tech Used
 
