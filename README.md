@@ -1,9 +1,8 @@
 # Netflix Clone using ReactJs and TailwindCSS
 
-<!-- ![Mobile](https://github.com/stephorc/react-tailwind-netflix/tree/main/solution/Netflix-Mobile.png) -->
-<!-- ![Tablet](https://github.com/stephorc/react-tailwind-netflix/tree/main/solution/Netflix-Tablet.png) -->
-<!-- ![Desktop](https://github.com/stephorc/react-tailwind-netflix/tree/main/solution/Netflix-Desktop.png) -->
-<!-- **Project Link** - ***https://*** -->
+![Fully built and deployed web app](https://github.com/stephorc/react-tailwind-netflix/tree/main/src/react-tailwind-netflix.png)
+
+**Project Link** - ***[https://](https://react-tailwind-netflix.web.app/)***
 
 ## Tech Used
 
@@ -32,5 +31,5 @@ Make an account and grab your API keys here:
 #### Run the following commands to start
 ```
 npm i
-npm run 
+npm run
 ```
