@@ -33,3 +33,5 @@ Make an account and grab your API keys here:
 npm i
 npm run
 ```
+
+**Deployed via npm build and firebase hosting, stored privately
